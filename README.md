@@ -5,15 +5,18 @@
 ### Build Tools
 
 * [gradle](https://github.com/gradle/gradle)
-  * [com.diffplug.spotless](https://plugins.gradle.org/plugin/com.diffplug.spotless)
-  * [com.github.johnrengelman.shadow](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-  * [com.google.cloud.tools.jib](https://plugins.gradle.org/plugin/com.google.cloud.tools.jib)
-  * [com.google.protobuf](https://plugins.gradle.org/plugin/com.google.protobuf)
-  * [de.undercouch.download](https://plugins.gradle.org/plugin/de.undercouch.download)
-  * [net.ltgt.errorprone](https://plugins.gradle.org/plugin/net.ltgt.errorprone)
-  * [nu.studer.jooq](https://plugins.gradle.org/plugin/nu.studer.jooq)
-  * [org.flywaydb.flyway](https://plugins.gradle.org/plugin/org.flywaydb.flyway)
+  * Gradle Plugins
+    * [com.diffplug.spotless](https://plugins.gradle.org/plugin/com.diffplug.spotless)
+    * [com.github.johnrengelman.shadow](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
+    * [com.google.cloud.tools.jib](https://plugins.gradle.org/plugin/com.google.cloud.tools.jib)
+    * [com.google.protobuf](https://plugins.gradle.org/plugin/com.google.protobuf)
+    * [de.undercouch.download](https://plugins.gradle.org/plugin/de.undercouch.download)
+    * [net.ltgt.errorprone](https://plugins.gradle.org/plugin/net.ltgt.errorprone)
+    * [nu.studer.jooq](https://plugins.gradle.org/plugin/nu.studer.jooq)
+    * [org.flywaydb.flyway](https://plugins.gradle.org/plugin/org.flywaydb.flyway)
 * [maven](https://github.com/apache/maven)
+  * Maven Plugins
+    * [protobuf-maven-plugin](https://github.com/xolstice/protobuf-maven-plugin)
 
 ### Databases
 
