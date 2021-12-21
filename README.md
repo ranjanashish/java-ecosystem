@@ -58,6 +58,7 @@
 
 * [junit4](https://github.com/junit-team/junit4)
 * [testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+  * [List of all available modules](https://github.com/testcontainers/testcontainers-java/tree/master/modules)
 
 ### Utils
 
