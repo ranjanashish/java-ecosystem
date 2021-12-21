@@ -2,6 +2,23 @@
 
 ## Libraries and Tools
 
+### Build Tools
+
+* [gradle](https://github.com/gradle/gradle)
+  * [com.diffplug.spotless](https://plugins.gradle.org/plugin/com.diffplug.spotless)
+  * [com.github.johnrengelman.shadow](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
+  * [com.google.cloud.tools.jib](https://plugins.gradle.org/plugin/com.google.cloud.tools.jib)
+  * [com.google.protobuf](https://plugins.gradle.org/plugin/com.google.protobuf)
+  * [net.ltgt.errorprone](https://plugins.gradle.org/plugin/net.ltgt.errorprone)
+  * [nu.studer.jooq](https://plugins.gradle.org/plugin/nu.studer.jooq)
+  * [org.flywaydb.flyway](https://plugins.gradle.org/plugin/org.flywaydb.flyway)
+* [maven](https://github.com/apache/maven)
+
+### Databases
+
+* [flyway](https://github.com/flyway/flyway)
+* [jOOQ](https://github.com/jOOQ/jOOQ)
+
 ### Dependency Injection
 
 * [dagger](https://github.com/google/dagger)
@@ -35,6 +52,11 @@
 * [spring-boot](https://github.com/spring-projects/spring-boot)
 * [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 * [spring-framework](https://github.com/spring-projects/spring-framework)
+
+### Unit Testing
+
+* [junit4](https://github.com/junit-team/junit4)
+* [testcontainers-java](https://github.com/testcontainers/testcontainers-java)
 
 ### Utils
 
