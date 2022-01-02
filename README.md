@@ -67,3 +67,11 @@
 
 * [commons-lang](https://github.com/apache/commons-lang)
 * [guava](https://github.com/google/guava)
+
+## Books
+
+* Effective Java
+
+## Blogs
+
+## Talks
