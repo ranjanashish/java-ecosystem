@@ -18,6 +18,10 @@
   * Maven Plugins
     * [protobuf-maven-plugin](https://github.com/xolstice/protobuf-maven-plugin)
 
+### Code Formatters
+
+* [spotless](https://github.com/diffplug/spotless) - use via gradle/maven plugin
+
 ### Databases
 
 * [flyway](https://github.com/flyway/flyway)
@@ -50,9 +54,11 @@
 
 * [gson](https://github.com/google/gson)
 
-### Static Analysis Tools
+### Static Analysis
 
+* [checkstyle](https://github.com/checkstyle/checkstyle)
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+* [error-prone](https://github.com/google/error-prone)
 * [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs)
 * [spotbugs](https://github.com/spotbugs/spotbugs)
 
