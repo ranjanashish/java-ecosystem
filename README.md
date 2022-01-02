@@ -32,16 +32,15 @@
 
 * [grpc-java](https://github.com/grpc/grpc-java)
 
-### HTTP Clients
+### HTTP
 
-* [okhttp](https://github.com/square/okhttp)
-* [retrofit](https://github.com/square/retrofit)
-
-### HTTP Servers
-
-* [spring-boot](https://github.com/spring-projects/spring-boot)
-* [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway)
-* [spring-framework](https://github.com/spring-projects/spring-framework)
+* clients
+  * [okhttp](https://github.com/square/okhttp)
+  * [retrofit](https://github.com/square/retrofit)
+* servers
+  * [spring-boot](https://github.com/spring-projects/spring-boot)
+  * [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway)
+  * [spring-framework](https://github.com/spring-projects/spring-framework)
 
 ### IO
 
