@@ -45,7 +45,7 @@
 
 * [gson](https://github.com/google/gson)
 
-### Security
+### Static Analysis Tools
 
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 * [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs)
