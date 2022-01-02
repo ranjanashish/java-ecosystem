@@ -32,10 +32,16 @@
 
 * [grpc-java](https://github.com/grpc/grpc-java)
 
-### HTTP
+### HTTP Clients
 
 * [okhttp](https://github.com/square/okhttp)
 * [retrofit](https://github.com/square/retrofit)
+
+### HTTP Servers
+
+* [spring-boot](https://github.com/spring-projects/spring-boot)
+* [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway)
+* [spring-framework](https://github.com/spring-projects/spring-framework)
 
 ### IO
 
@@ -50,12 +56,6 @@
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 * [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs)
 * [spotbugs](https://github.com/spotbugs/spotbugs)
-
-### Spring
-
-* [spring-boot](https://github.com/spring-projects/spring-boot)
-* [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway)
-* [spring-framework](https://github.com/spring-projects/spring-framework)
 
 ### Unit Testing
 
