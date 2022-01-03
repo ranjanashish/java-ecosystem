@@ -1,4 +1,4 @@
-# Java Standard Library
+# Standard Library
 
 ## Static Methods
 
