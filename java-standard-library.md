@@ -76,15 +76,16 @@
 
 ###### Misc
 
+* `Boolean.parseBoolean()`
+* `Integer.parseInt()`
+* `Long.parseLong()`
+* `Float.parseFloat()`
+* `Double.parseDouble()`
 * `Boolean.valueOf()`
 * `Integer.valueOf()`
-* `Integer.parseInt()`
 * `Long.valueOf()`
-* `Long.parseLong()`
 * `Float.valueOf()`
-* `Float.parseFloat()`
 * `Double.valueOf()`
-* `Double.parseDouble()`
 * `Optional.empty()`
 * `Optional.of()`
 * `Optional.ofNullable()`
