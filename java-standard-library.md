@@ -1,0 +1,108 @@
+# Java Standard Library
+
+## Static Methods
+
+###### Arrays
+
+* `Arrays.asList()`
+* `Arrays.binarySearch()`
+* `Arrays.copyOf()`
+* `Arrays.fill()`
+* `Arrays.stream()`
+* `Arrays.sort()`
+
+###### Collections
+
+* `Collections.emptyList()` - returns **immutable** empty list; `List.of()` can be used instead
+* `Collections.emptyMap()` - returns **immutable** empty map; `Map.of()` can be used instead
+* `Collections.emptySet()` - returns **immutable** empty set; `Set.of()` can be used instead
+* `Collections.singletonList()` - returns **immutable** list; `List.of()` can be used instead
+* `Collections.singletonMap()` - returns **immutable** map; `Map.of()` can be used instead
+* `Collections.singleton()` - returns **immutable** set; `Set.of()` can be used instead
+* `Collections.unmodifiableList()` - returns **immutable** list
+* `Collections.unmodifiableMap()` - returns **immutable** map
+* `Collections.unmodifiableSet()` - returns **immutable** set
+* `Collections.addAll()`
+* `Collections.binarySearch()`
+* `Collections.frequency()`
+* `Collections.max()`
+* `Collections.min()`
+* `Collections.nCopies()`
+* `Collections.shuffle()`
+* `Collections.sort()`
+* `Collections.swap()`
+
+###### Collectors
+
+* `Collectors.joining()`
+* `Collectors.toList()`
+* `Collectors.toMap()`
+* `Collectors.toSet()`
+* `Collectors.toUnmodifiableList()`
+* `Collectors.toUnmodifiableMap()`
+* `Collectors.toUnmodifiableSet()`
+
+###### IntStream
+
+* `IntStream.of()`
+* `IntStream.range()`
+* `IntStream.empty()`
+* `IntStream.concat()`
+
+###### List
+
+* `List.of()` - returns **immutable** list
+* `List.copyOf()` - returns **immutable** list
+
+###### Map
+
+* `Map.of()` - returns **immutable** map
+* `Map.copyOf()` - returns **immutable** map
+* `Map.entry()` - returns **immutable** entry
+* `Map.ofEntries()` - returns **immutable** map
+
+###### Math
+
+* `Math.addExact()`
+* `Math.abs()`
+* `Math.ceil()`
+* `Math.floor()`
+* `Math.max()`
+* `Math.min()`
+* `Math.pow()`
+* `Math.exp()`
+* `Math.round()`
+* `Math.random()`
+
+###### Misc
+
+* `Boolean.valueOf()`
+* `Integer.valueOf()`
+* `Integer.parseInt()`
+* `Long.valueOf()`
+* `Long.parseLong()`
+* `Float.valueOf()`
+* `Float.parseFloat()`
+* `Double.valueOf()`
+* `Double.parseDouble()`
+* `Optional.empty()`
+* `Optional.of()`
+* `Optional.ofNullable()`
+
+###### Set
+
+* `Set.of()` - returns **immutable** set
+* `Set.copyOf()` - return **immutable** set
+
+## Interfaces
+
+* `AutoCloseable`
+* `Supplier<T>`
+
+## Exceptions
+
+* `AssertionError`
+
+## Annotations
+
+* `FunctionalInterface`
