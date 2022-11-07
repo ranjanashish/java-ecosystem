@@ -8,17 +8,17 @@
 * `Arrays.binarySearch()`
 * `Arrays.copyOf()`
 * `Arrays.fill()`
-* `Arrays.stream()`
+* `Arrays.stream()` - (overloaded) returns `IntStream` for int array, `LongStream` for long array, `DoubleStream` for double array and `Stream<T>` for generic type array
 * `Arrays.sort()`
 
 ###### Collections
 
-* `Collections.emptyList()` - returns **immutable** empty list; `List.of()` can be used instead
-* `Collections.emptyMap()` - returns **immutable** empty map; `Map.of()` can be used instead
-* `Collections.emptySet()` - returns **immutable** empty set; `Set.of()` can be used instead
-* `Collections.singletonList()` - returns **immutable** list; `List.of()` can be used instead
-* `Collections.singletonMap()` - returns **immutable** map; `Map.of()` can be used instead
-* `Collections.singleton()` - returns **immutable** set; `Set.of()` can be used instead
+* `Collections.emptyList()` - returns **immutable** empty list; `List.of()` can also be used
+* `Collections.emptyMap()` - returns **immutable** empty map; `Map.of()` can also be used
+* `Collections.emptySet()` - returns **immutable** empty set; `Set.of()` can also be used
+* `Collections.singletonList()` - returns **immutable** list; `List.of()` can also be used
+* `Collections.singletonMap()` - returns **immutable** map; `Map.of()` can also be used
+* `Collections.singleton()` - returns **immutable** set; `Set.of()` can also be used
 * `Collections.unmodifiableList()` - returns **immutable** list
 * `Collections.unmodifiableMap()` - returns **immutable** map
 * `Collections.unmodifiableSet()` - returns **immutable** set
