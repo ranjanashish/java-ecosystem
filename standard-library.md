@@ -8,7 +8,11 @@
 * `Arrays.binarySearch()`
 * `Arrays.copyOf()`
 * `Arrays.fill()`
-* `Arrays.stream()` - (overloaded) returns `IntStream` for int array, `LongStream` for long array, `DoubleStream` for double array and `Stream<T>` for generic type array
+* `Arrays.stream()` - (overloaded)
+  * returns `IntStream` for int array
+  * returns `LongStream` for long array
+  * returns `DoubleStream` for double array
+  * returns `Stream<T>` for generic type array
 * `Arrays.sort()`
 
 ###### Collections
