@@ -8,7 +8,7 @@
 * `Arrays.binarySearch()`
 * `Arrays.copyOf()`
 * `Arrays.fill()`
-* `Arrays.stream()` - (overloaded)
+* `Arrays.stream()` - overloaded
   * returns `IntStream` for int array
   * returns `LongStream` for long array
   * returns `DoubleStream` for double array
